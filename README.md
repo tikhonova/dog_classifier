@@ -32,5 +32,5 @@ When tested on new images, the CNN model with transfer learning performed as exp
 - Matplotlib (Plotting library)
 - Keras (Neural-network library)
 - Glob library 
-Inception bottleneck features can be downloaded here: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogInceptionV3Data.npz
 
+Inception bottleneck features can be downloaded here: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogInceptionV3Data.npz
