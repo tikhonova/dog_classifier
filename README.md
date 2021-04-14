@@ -34,3 +34,4 @@ When tested on new images, the CNN model with transfer learning performed as exp
 - Glob library 
 
 Inception bottleneck features can be downloaded here: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogInceptionV3Data.npz
+The summary can be found in my article here: https://ttikh.medium.com/from-dogs-to-classifiers-2baf495e6a27
