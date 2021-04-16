@@ -21,7 +21,7 @@ If a dog is detected in the image, it will estimate the dog's breed. If a human 
 
 ## Results <a name="results"></a>
 
-n summary, the performance of the pre-trained model I built far exceeded the hand made CNN model. The accuracy of the InceptionV3 model (pre-trained on ImageNet) exceeded 80% while the CNN from scratch was under 4%.
+In summary, the performance of the pre-trained model I built far exceeded the hand made CNN model. The accuracy of the InceptionV3 model (pre-trained on ImageNet) exceeded 80% while the CNN from scratch was under 4%.
 This improved performance can be attributed to the vast dataset on which the pre-trained model was built. The ImageNet dataset contains more than one million training images on which the InceptionV3 model was trained, hence an extreme increase in performance as compared to CNN from scratch. 
 When tested on new images, the CNN model with transfer learning performed as expected: not perfect, but good enough. 
 
